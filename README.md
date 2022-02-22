@@ -6,7 +6,7 @@ I am Gulshan Mishra, a third year engineering student at NIT Agartala, currently
 
 - 👯 I’m looking to collaborate on Vision/NLP projects and ML/DSA competitions
 
-- 🤔 I’m looking for help with back-end development with Node.js and Django
+- 🤔 I’m looking for help on back-end development with Node.js and Django
 
 - 💬 Ask me about Statistics, Vision/NLP and ML competitions. Would love to answer them
 
