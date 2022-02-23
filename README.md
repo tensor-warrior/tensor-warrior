@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gulshan Mishra, a third year engineering student at NIT Agartala, currently residing in Agartala, Tripura (India). I have decent knowledege in Deep Learning with TensorFlow and PyTorch and have done a couple of projects with them
+I am Gulshan Mishra, a third year engineering student at NIT Agartala, currently residing in Agartala, Tripura (India). I have decent knowledege in Deep Learning and have done a couple of projects in TensorFlow and PyTorch
 - 🔭 I’m currently working on my Algorithmic and Web development skills
 
 - 🌱 I’m currently learning back-end web development and reinforcement learning
